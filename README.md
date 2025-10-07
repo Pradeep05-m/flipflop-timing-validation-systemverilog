@@ -142,7 +142,8 @@ Simulation is carried out using EDA playground
 
 Verify setup and hold constraints for all random input patterns.
 
-<img width="1920" height="1020" alt="Screenshot 2025-09-27 114145" src="https://github.com/user-attachments/assets/78f6eac6-a1a4-4af9-a37a-83eac87bde40" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-07 103031" src="https://github.com/user-attachments/assets/a8a42d39-9077-4ad7-bf27-fa56ac771a94" />
+
 
 
 ---
